@@ -5,6 +5,7 @@
 
 # 自己添加
 DOMAIN-SUFFIX,granbluefantasy.jp
+IP-CIDR,44.224.0.0/11
 
 # 原神
 DOMAIN-SUFFIX,hoyoverse.com
