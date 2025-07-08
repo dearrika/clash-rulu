@@ -3,9 +3,6 @@
 # 更新: 2024年04月02日13:19:41
 # 数量: 86条
 
-#段落匹配
-IP-CIDR,44.224.0.0/11
-
 # 自己添加
 DOMAIN-SUFFIX,granbluefantasy.jp
 
